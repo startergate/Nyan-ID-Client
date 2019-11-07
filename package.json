@@ -1,0 +1,19 @@
+{
+  "name": "nyan.js",
+  "version": "1.0.0",
+  "description": "Nyan.js is javascript client for Nyan ID.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/startergate/Nyan-ID-Client.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/startergate/Nyan-ID-Client/issues"
+  },
+  "homepage": "https://github.com/startergate/Nyan-ID-Client#readme"
+}
