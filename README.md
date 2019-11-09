@@ -1,2 +1,2 @@
-# Nyan-ID-Client
-Nyan ID Client. Nyaaan Nyan Nyaan nya Nyan (Better than that old SID)
+# Nyan.js
+Nyan ID Client for JavaScript. Nyaaan Nyan Nyaan nya Nyan (Better than that old SID)
