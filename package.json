@@ -1,6 +1,6 @@
 {
-  "name": "nyan.js",
-  "version": "1.0.0",
+  "name": "nyanid",
+  "version": "3.0.0",
   "description": "Nyan.js is javascript client for Nyan ID.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/startergate/Nyan-ID-Client/issues"
   },
-  "homepage": "https://github.com/startergate/Nyan-ID-Client#readme"
+  "homepage": "https://github.com/startergate/Nyan-ID-Client#readme",
+  "dependencies": {
+    "oauth": "^0.9.15"
+  }
 }
